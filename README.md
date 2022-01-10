@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Mail: ridamkrishna@gamil.com & [Instagram Handle](https://www.instagram.com/rhythm_krishna/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Rotten luck in ludo
--->
