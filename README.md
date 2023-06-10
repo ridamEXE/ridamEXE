@@ -63,7 +63,7 @@
 <!--   </a> -->
 </p>
 
-[![This is my activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ridamEXE&theme=high-contrast&hide_border=true&custom_title=My%20Recent%20Activity)](https://github.com/ridamEXE/github-readme-activity-graph)
+![This is my activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ridamEXE&bg_color=151515&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=My%20Recent%20Activity)
 
 <p align="center">
   <a href="http://torrinleonard.com/">
