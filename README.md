@@ -5,8 +5,8 @@
 <div id="bottom-left-header">
   <h3 align="center">About Me</h3>
   <ul>
-    <li>Currently, CS student at SRM University.</li>
-    <li>Developing myself to become a Software Engineer.
+    <li>Graduated from SRM University.</li>
+<!--     <li>Developing myself to become a Software Engineer. -->
     <li>I usually do Photography or read Fictional Books in my free time.
     <li>I like to interact with people and learn new things.
   </ul>
